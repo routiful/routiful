@@ -10,8 +10,6 @@ Also, I'm interested in artistic work (Especially, `motion` and `human interacti
 I have cooperated with several artists who are making [movie](https://youtu.be/6-kGALQmEk0), sound and [kinetic sculpture](https://youtu.be/ssun6W033rA).
 I'm always looking for co-working with them to create beautiful artwork.
 
-🌱 [Blog](https://routiful.github.io) 
-
 🔭 [LinkedIn](https://www.linkedin.com/in/taehun-lim-bb108a180/)
 
 <!--
