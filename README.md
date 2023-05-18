@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-Designed and developed libraries to operate robots using ROS / ROS 2 as well as contributed open source.
+Designed and implemented libraries to operate robots using ROS / ROS 2 as well as contributed open sources.
 
-I have developed and maintained [`TurtleBot3`](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)(Official hardware platform for ROS and ROS 2) and [`OpenManipulator`](https://emanual.robotis.com/docs/en/platform/openmanipulator_main)(Supports ROS, ROS 2 and Arduino).
-Recently, I am focusing motion control and tele-operation system for autonomous delivery robot platform.
+Developed and maintained [`TurtleBot3`](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)(Official hardware platform for ROS and ROS 2) and [`OpenManipulator`](https://emanual.robotis.com/docs/en/platform/openmanipulator_main)(Supports ROS, ROS 2 and Arduino).
+Designed software architecture with ROS 2 for delivery services using mobile robots.
 
-Also, I'm interested in artistic work (Especially, `motion` and `human interaction`). 
-
-I have cooperated with several artists who can produce [movie](https://youtu.be/6-kGALQmEk0) or design [kinetic sculpture](https://youtu.be/A0SC21MFM94?t=429).
-I'm always looking for co-working with someone to create beautiful interactive artwork.
+Recently, I am focusing on SDV(Software Defined Vehicle) OS.
 
 🔭 [LinkedIn](https://www.linkedin.com/in/taehun-lim-bb108a180/)
 
